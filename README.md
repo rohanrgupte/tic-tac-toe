@@ -2,7 +2,7 @@
 
 An educational project exploring different game-playing algorithms for Tic-Tac-Toe. This repository implements multiple AI agents, from simple rule-based strategies to reinforcement learning, and provides an interactive Streamlit interface for playing, learning, and experimenting.
 
-**Live Demo:** [tic-tac-toe-ai-lab.streamlit.app](https://tic-tac-toe-ai-lab.streamlit.app)
+**Live Demo:** [tic-tac-toe-ailabs.streamlit.app](https://tic-tac-toe-ailabs.streamlit.app/)
 
 **GitHub Repository:** [github.com/rohanrgupte/tic-tac-toe](https://github.com/rohanrgupte/tic-tac-toe)
 
