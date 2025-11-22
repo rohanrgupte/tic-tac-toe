@@ -4,10 +4,6 @@ An educational project exploring different game-playing algorithms for Tic-Tac-T
 
 **Live Demo:** [tic-tac-toe-ailabs.streamlit.app](https://tic-tac-toe-ailabs.streamlit.app/)
 
-**GitHub Repository:** [github.com/rohanrgupte/tic-tac-toe](https://github.com/rohanrgupte/tic-tac-toe)
-
-**Created by:** [Rohan Gupte](https://github.com/rohanrgupte)
-
 ## Features
 
 ### AI Agents
